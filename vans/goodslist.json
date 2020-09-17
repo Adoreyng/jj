@@ -1,0 +1,14 @@
+[
+    { "id": 1, "info": "SK8-MID GORE-TEX 男女款板鞋", "price": 895, "img": "img/detail/1.jpg" },
+    { "id": 2, "info": "SK8-HI REISSUE 男女款板鞋", "price": 850, "img": "img/detail1/1.jpg" },
+    { "id": 3, "info": "SK8-HI CAP 男女款板鞋", "price": 765, "img": "img/detail2/1.jpg" },
+	{ "id": 4, "info": "SK8-MID GOR 男女款板鞋", "price": 555, "img": "img/detail3/1.jpg" },
+	{ "id": 5, "info": "SK8-HI 男女款板鞋", "price": 880, "img": "img/detail4/1.jpg" },
+	{ "id": 6, "info": "SK8-HI CAP 男女款板鞋", "price": 670, "img": "img/detail5/1.jpg" },
+	{ "id": 7, "info": "SK8-MID GOX 男女款板鞋", "price": 750, "img": "img/detail6/1.jpg" },
+	{ "id": 8, "info": "SK8-HI RSUE VLT 男女款板鞋", "price": 420, "img": "img/detail6/1.jpg" },
+	{ "id": 9, "info": "SK8-HI RE CAP 男女款板鞋", "price": 920, "img": "img/detail8/1.jpg" },
+	{ "id": 10, "info": "SK8-MI GOREX 男女款板鞋", "price": 740, "img": "img/detail9/1.jpg" },
+	{ "id": 11, "info": "SK8-HI UEVLT LX 男女款板鞋", "price": 885, "img": "img/detail10/1.jpg" },
+	{ "id": 12, "info": "SK8-H RUE CAP 男女款板鞋", "price": 895, "img": "img/detail11/1.jpg" }
+]
